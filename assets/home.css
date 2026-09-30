@@ -1,0 +1,190 @@
+/* line 5, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+a {
+  text-decoration: underline;
+}
+
+/* line 6, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+a.social-buttons {
+  text-decoration: none;
+}
+
+/* line 7, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner {
+  margin-top: 0;
+  padding: 3% 5% 0px 5%;
+}
+/* line 16, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner h1 {
+  font-size: 3.2em;
+  line-height: .9em;
+  margin: 10px 5px 5px 0;
+}
+/* line 21, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner h1 span {
+  color: #4db3c5;
+}
+/* line 26, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner h2 {
+  color: #ed1847;
+  font-size: 2.4em;
+  line-height: .4em;
+}
+/* line 32, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner h3 {
+  font-size: 2.2em;
+  margin: 0 0 10px 0;
+}
+/* line 37, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner h4 {
+  font-size: 1.6em;
+  color: #082243;
+  background-color: #4db3c5;
+  display: inline;
+}
+/* line 43, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner h4 span {
+  color: #fff;
+}
+/* line 48, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner .nav li a {
+  font-size: 1.45em;
+}
+/* line 52, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.banner .nav li a:hover {
+  background: #4db3c5;
+  color: #082243;
+}
+
+/* line 58, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.jumbotron {
+  background-color: rgba(8, 34, 67, 0.75);
+  color: #FFF;
+}
+
+/* line 63, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.block {
+  padding: 3% 5% 5% 5%;
+}
+
+/* line 67, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.block h6 {
+  font-size: 60px;
+  font-family: 'LiberationSansBold';
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* line 74, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.block p {
+  font-family: 'LiberationSans';
+  font-size: 20px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+}
+
+/* line 81, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.carousel img {
+  width: 100%;
+}
+
+/* line 85, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.block-alternative {
+  background-color: #082243;
+  color: #FFF;
+}
+
+/* line 90, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+#venue > div {
+  background: rgba(77, 179, 197, 0.75);
+  margin-top: 40px;
+}
+
+/* line 95, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+#venue a {
+  color: #000;
+}
+
+/* line 99, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+#about > div, #workshops > div, .translucid-white > div {
+  background-color: rgba(255, 255, 255, 0.75);
+  padding-bottom: 20px;
+}
+
+/* line 104, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.speaker {
+  text-align: justify;
+}
+
+/* line 108, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+#speakers > div, #sponsors > div {
+  background-color: rgba(8, 34, 67, 0.75);
+  padding-bottom: 20px;
+}
+
+/* line 113, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.speaker img {
+  width: 90%;
+  max-width: 300px;
+}
+
+/* line 118, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.speaker p {
+  font-size: 14px;
+  padding-right: 10%;
+  padding-top: 10px;
+}
+
+/* line 123, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.sponsor {
+  line-height: 10em;
+}
+
+/* line 127, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.sponsor img {
+  width: 90%;
+  max-width: 300px;
+}
+
+/* line 132, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.sponsor p {
+  font-size: 14px;
+  padding-right: 10%;
+  padding-top: 10px;
+}
+
+/* line 138, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+#map > div.leaflet-map-pane, #map > div.leaflet-control-container {
+  position: relative;
+}
+
+#map-xs {
+  height: 320px;
+}
+
+/* line 143, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.row.same-height {
+  display: table;
+}
+
+/* line 147, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+[class*="col-"].same-height {
+  float: none;
+  display: table-cell;
+  vertical-align: top;
+}
+
+/* line 153, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.switch-lang {
+  margin-right: 15px;
+  font-style: oblique;
+}
+
+/* line 158, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.switch-lang-phone {
+  font-style: oblique;
+}
+
+/* line 162, /home/cypher/proyectos/libreconf/app/assets/stylesheets/home.css.scss */
+.hour {
+  font-weight: 700;
+}
