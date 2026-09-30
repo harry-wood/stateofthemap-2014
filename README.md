@@ -2,7 +2,7 @@
 
 Standalone archival website for State of the Map 2014. It is based on the final
 Rails application at
-[openstreetmap/stateofthemap-2014@7282de6](https://github.com/openstreetmap/stateofthemap-2014/commit/7282de6)
+[https://github.com/osm-ar/libreconf/tree/early-bird](https://github.com/osm-ar/libreconf/tree/early-bird)
 and material recovered from the Internet Archive.
 
 ## Local preview
